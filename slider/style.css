@@ -1,0 +1,17 @@
+*{
+padding:0;
+margin:0;
+}
+.slider{
+height: 600px;
+width: 900px;
+margin: 50px auto;
+border-radius: 10px;
+box-shadow: 0 0 8px;
+
+}
+.slider>img{
+    width: 900px;
+    height:600px;
+    border-radius: 10px;
+}
